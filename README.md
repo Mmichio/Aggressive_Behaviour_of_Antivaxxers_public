@@ -32,5 +32,5 @@ and the codes are not clean.. sorry about this.
 
 Also, if you want to use the codes or data, please cite our paper.
 ```
-Miyazaki, K., Uchiba, T., Tanaka, K. et al. Aggressive behaviour of anti-vaxxers and their toxic replies in English and Japanese. Humanit Soc Sci Commun 9, 229 (2022). https://doi.org/10.1057/s41599-022-01245-x
+Miyazaki, K., Uchiba, T., Tanaka, K., Sasahara, K. Aggressive behaviour of anti-vaxxers and their toxic replies in English and Japanese. Humanit Soc Sci Commun 9, 229 (2022). https://doi.org/10.1057/s41599-022-01245-x
 ```
