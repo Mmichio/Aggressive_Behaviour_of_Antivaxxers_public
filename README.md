@@ -1,5 +1,5 @@
 # Aggressive_Behaviour_of_Antivaxxers_public
-This is the repository for code and data of the paper "Aggressive Behaviour of Anti-vaxxers and Their Toxic Replies in English and Japanese."
+This is the repository for code and data of the paper "Aggressive Behaviour of Anti-vaxxers and Their Toxic Replies in English and Japanese."  
 Paper: https://www.nature.com/articles/s41599-022-01245-x
 
 ### Data
